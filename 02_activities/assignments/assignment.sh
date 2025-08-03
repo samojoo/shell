@@ -18,6 +18,7 @@ cd newproject
 
 mkdir analysis outputls
 touch README.md
+echo "# Project Name: DSI Consulting Inc." > README.md
 touch analysis/main.py
 
 # download client data
